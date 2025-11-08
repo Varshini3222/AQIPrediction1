@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Data / Models / Outputs
+Data/
+*.csv
+*.h5
+*.joblib
+*.png
+*.pdf
+
+# Streamlit
+.streamlit/
+
+# OS junk
+.DS_Store
+Thumbs.db
